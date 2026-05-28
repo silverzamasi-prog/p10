@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340429227480",
+    "project_id": "p10-yaahowu",
+    "storage_bucket": "p10-yaahowu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340429227480:android:832718c75eb1534bbb1ead",
+        "android_client_info": {
+          "package_name": "com.example.p10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0POwg4so4wWvKSwM9GOn600qO8YWHOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
